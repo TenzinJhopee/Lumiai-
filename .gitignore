@@ -17,6 +17,7 @@ dist/
 .env.production
 .env.test
 .env.*.local
+.env.example
 
 # Allow safe example environment file
 !.env.example
